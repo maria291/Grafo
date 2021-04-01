@@ -2,28 +2,23 @@
   "users": [
     {
       "id": 1,
-      "name": "URJC",
-      "followers: 32
+      "name": "URjC"
     },
     {
       "id": 2,
-      "name": "pepito",
-      "followers: 32
+      "name": "pepito"
     },
     {
       "id": 3,
-      "name": "urjcONline",
-      "followers: 32
+      "name": "urjcONline"
     },
     {
       "id": 4,
-      "name": "D",
-      "followers: 32
+      "name": "D"
     },
     {
       "id": 5,
-      "name": "E",
-      "followers: 32
+      "name": "E"
     },
     {
       "id": 6,
