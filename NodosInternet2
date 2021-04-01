@@ -1,0 +1,73 @@
+{
+  " nodos " : [
+    {
+      " id " : 1 ,
+      " nombre " : " A "
+    },
+    {
+      " id " : 2 ,
+      " nombre " : " B "
+    },
+    {
+      " id " : 3 ,
+      " nombre " : " C "
+    },
+    {
+      " id " : 4 ,
+      " nombre " : " D "
+    },
+    {
+      " id " : 5 ,
+      " nombre " : " E "
+    }
+  ],
+  " enlaces " : [
+
+    {
+      " fuente " : 1 ,
+      " objetivo " : 2
+    },
+    {
+      " fuente " : 1 ,
+      " objetivo " : 5
+    },
+    {
+      " fuente " : 1 ,
+      " objetivo " : 4
+    },
+
+    {
+      " fuente " : 2 ,
+      " objetivo " : 3
+    },
+            {
+      " fuente " : 2 ,
+      " objetivo " : 3
+    }
+    ,
+
+    {
+      " fuente " : 3 ,
+      " objetivo " : 4
+    },
+     {
+      " fuente " : 1
+      " objetivo " :  3
+    }
+    ,
+    {
+      " fuente " : 4 ,
+      " objetivo " : 5
+    }
+    ,
+
+    {
+      " fuente " : 4 ,
+      " objetivo " : 3
+    },
+    {
+      " fuente " : 5 ,
+      " objetivo " : 2
+    }
+  ]
+}
